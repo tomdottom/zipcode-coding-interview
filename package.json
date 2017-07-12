@@ -1,0 +1,16 @@
+{
+  "name": "gol",
+  "version": "0.0.1",
+  "description": "GoL",
+  "main": "gol.js",
+  "scripts": {
+    "tests": "jest --noStackTrace",
+    "watch-tests": "jest --noStackTrace --watch",
+    "run": "node gol.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
